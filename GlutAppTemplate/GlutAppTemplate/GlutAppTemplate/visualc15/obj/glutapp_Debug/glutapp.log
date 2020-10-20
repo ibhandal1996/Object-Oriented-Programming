@@ -1,0 +1,11 @@
+﻿  app_main.cpp
+d:\school\cse165\glutapptemplate\glutapptemplate\rectangle.h(67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\school\cse165\glutapptemplate\glutapptemplate\rectangle.h(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\school\cse165\glutapptemplate\glutapptemplate\rectangle.h(69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\school\cse165\glutapptemplate\glutapptemplate\rectangle.h(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\school\cse165\glutapptemplate\glutapptemplate\app_main.cpp(65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\school\cse165\glutapptemplate\glutapptemplate\app_main.cpp(66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\school\cse165\glutapptemplate\glutapptemplate\app_main.cpp(67): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\school\cse165\glutapptemplate\glutapptemplate\app_main.cpp(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  glutapp.vcxproj -> D:\School\CSE165\GlutAppTemplate\GlutAppTemplate\visualc15\obj\glutapp_Debug\glutapp.exe
+  glutapp.vcxproj -> obj\glutapp_Debug\glutapp.pdb (Full PDB)
