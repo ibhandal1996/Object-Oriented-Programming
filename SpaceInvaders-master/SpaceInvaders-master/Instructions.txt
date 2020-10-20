@@ -1,0 +1,15 @@
+To start the program just go to the terminal and change directory to
+...\SpaceInvaders-master\GlutAppTemplate\
+
+You may need to delete glutapp from the folder that you changed directory to
+(just glutapp, not the glutapp.cpp, glutapp.h, glutapp.o, glutapp.d files)
+
+If you deleted glutapp, then you need to use the command: make
+
+After that start the game by using the command: ./glutapp
+
+Then press ENTER when the new window starts up and play the game
+
+The ARROW keys move the player and the SPACE key make the player shoot 
+
+When you want to reset the game press R 

@@ -1,0 +1,58 @@
+﻿  app_main.cpp
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(44): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(45): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(64): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(66): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(88): warning C4018: '<': signed/unsigned mismatch
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(108): warning C4018: '<': signed/unsigned mismatch
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(125): warning C4018: '<': signed/unsigned mismatch
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(146): warning C4018: '<': signed/unsigned mismatch
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(157): warning C4018: '<': signed/unsigned mismatch
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(178): warning C4018: '<': signed/unsigned mismatch
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(189): warning C4018: '<': signed/unsigned mismatch
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(218): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(219): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(221): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(250): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(257): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(264): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(277): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(284): warning C4305: '=': truncation from 'double' to 'float'
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(285): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(290): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(304): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(305): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(306): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(309): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(318): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(319): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(323): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(324): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(338): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(339): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\programs\visual studios community\2017\community\vc\tools\msvc\14.11.25503\include\xmemory0(856): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  d:\programs\visual studios community\2017\community\vc\tools\msvc\14.11.25503\include\vector(958): note: see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,double,double,double>(_Alloc &,_Objty *const ,double &&,double &&,double &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<tictactoe>,
+              _Ty=tictactoe,
+              _Objty=tictactoe
+          ]
+  d:\programs\visual studios community\2017\community\vc\tools\msvc\14.11.25503\include\vector(958): note: see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,double,double,double>(_Alloc &,_Objty *const ,double &&,double &&,double &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<tictactoe>,
+              _Ty=tictactoe,
+              _Objty=tictactoe
+          ]
+  d:\school\cse165\tictactoe\glutapptemplate\app_main.cpp(283): note: see reference to function template instantiation 'void std::vector<tictactoe,std::allocator<_Ty>>::emplace_back<double,double,double>(double &&,double &&,double &&)' being compiled
+          with
+          [
+              _Ty=tictactoe
+          ]
+  glutapp.vcxproj -> D:\School\CSE165\TicTacToe\GlutAppTemplate\visualc15\obj\glutapp_Debug\glutapp.exe
+  glutapp.vcxproj -> obj\glutapp_Debug\glutapp.pdb (Full PDB)
